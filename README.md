@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soroush-ui
-- 👀 I’m interested in AI & Radiomics
+- 👀 I’m interested at AI & Radiomics
 - 🌱 I’m currently learning Medical physics
 - 📫 How to reach me Soroushb6975@gmail.com
 
